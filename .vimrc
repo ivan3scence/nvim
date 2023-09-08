@@ -1,6 +1,6 @@
 "curl -fLo ~/.vim/autoload/plug.vim --create-dirs \
 "    https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
-
+set autoindent noexpandtab tabstop=4 shiftwidth=4
 set relativenumber
 set mouse=a
 
