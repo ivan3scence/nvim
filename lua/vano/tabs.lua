@@ -13,3 +13,15 @@ opt.smartindent=true
 
 opt.autoindent = true
 opt.expandtab = false
+
+opt.nu = true
+opt.relativenumber = true
+opt.incsearch = true
+
+opt.shell = "/usr/bin/fish"
+
+opt.termguicolors = true
+
+opt.scrolloff = 8
+opt.signcolumn = "yes"
+opt.colorcolumn = "80"
